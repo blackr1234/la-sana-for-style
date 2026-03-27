@@ -2552,7 +2552,7 @@ a:hover, a:active, a:focus, a:visited {
   left: 0;
   width: 26px;
   height: 26px;
-  background: url("https://www.lasana.net/assets/image/common/ico_night.svg") top left no-repeat;
+  background: url("../image/common/ico_night.svg") top left no-repeat;
   background-size: contain;
 }
 
